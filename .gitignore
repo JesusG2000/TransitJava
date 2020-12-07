@@ -1,0 +1,4 @@
+/out/*
+/.idea/*
+/java.iml
+/src/META-INF/*
